@@ -14,5 +14,5 @@ cd advanced-sass-project
 # Install dependencies
 npm install
 
-After installation run command: npm start 
 ```
+After installation run command: `npm start`
